@@ -1,0 +1,24 @@
+{
+  "name": "mol",
+  "version": "1.0.0",
+  "description": "My Offer Letters",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liangfang/mol.git"
+  },
+  "keywords": [
+    "offers",
+    "real",
+    "estate"
+  ],
+  "author": "Liang Fang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liangfang/mol/issues"
+  },
+  "homepage": "https://github.com/liangfang/mol"
+}
