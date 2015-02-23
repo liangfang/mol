@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/liangfang/mol/issues"
   },
-  "homepage": "https://github.com/liangfang/mol"
+  "homepage": "https://github.com/liangfang/mol",
+  "dependencies": {
+    "good": "^5.1.2",
+    "good-console": "^4.1.0",
+    "hapi": "^8.2.0"
+  }
 }
